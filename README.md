@@ -13,7 +13,7 @@ This project focuses on the creation and management of Organizational Units (OUs
 ## Environments
 
 ### Server Environment
-- **Operating System**: Windows Server configured with AD DS.
+- **Operating System**: Windows Server 2016 configured with AD DS.
 - **AD Structure**: Includes custom OUs and delegated groups for specific management scenarios.
 
 ### User Groups
